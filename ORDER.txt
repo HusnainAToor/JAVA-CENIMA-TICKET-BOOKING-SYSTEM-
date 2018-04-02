@@ -1,0 +1,5 @@
+Order No; = 1Name = MR HUSNAIN AZEEM TOOR , Age = 12 , Movie = HERO ONE , Tickets = 10.0 , Price per ticket = 20 EUORO , Total Price = 200.0EUORO , Total Price = 200.0EUORO and Totel Price = 120.0 EUORO
+Order No; = 2Name = MR AZEEM TOOR , Age = 65 , Movie = HERO TWO , Tickets = 10.0 , Price per ticket = 20 EUORO , Total Price = 200.0EUORO , Total Price = 200.0EUORO and Totel Price = 160.0 EUORO
+Order No; = 3  Name = MR USMAN , Age = 22 , Movie = HERO THREE , Tickets = 10.0 , Price per ticket = 20 EUORO , Total Price = 200.0EUORO , Total Price = 200.0EUORO and Totel Price = 200.0 EUORO
+Order No; = 4  Name = MR ABUBAKAR , Age = 11 , Movie = HERO THREE , Tickets = 10.0 , Price per ticket = 20 EUORO , Total Price = 200.0EUORO , Total Price = 200.0EUORO and Totel Price = 120.0 EUORO
+Order No; = 5  Name = MR ADEEL , Age = 34 , Movie = HERO , Tickets = 22.0 , Price per ticket = 20 EUORO , Total Price = 440.0EUORO , Total Price = 440.0EUORO and Totel Price = 440.0 EUORO
